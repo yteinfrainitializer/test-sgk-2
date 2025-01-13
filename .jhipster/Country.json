@@ -1,0 +1,18 @@
+{
+    "annotations": {
+        "changelogDate": "20250113074259",
+        "entityPackage": "country"
+    },
+    "applications": "*",
+    "dto": "mapstruct",
+    "fields": [
+        {
+            "fieldName": "countryName",
+            "fieldType": "String"
+        }
+    ],
+    "name": "Country",
+    "relationships": [],
+    "searchEngine": "no",
+    "service": "serviceImpl"
+}
