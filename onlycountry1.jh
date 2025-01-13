@@ -1,0 +1,6 @@
+entity Country {
+	countryName String
+}
+
+// Set service options to all except few
+service all with serviceImpl
