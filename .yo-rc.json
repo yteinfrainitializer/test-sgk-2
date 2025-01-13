@@ -1,0 +1,25 @@
+{
+  "generator-jhipster": {
+    "baseName": "yte-demo-app",
+    "blueprints": [
+      {
+        "name": "generator-jhipster-yte",
+        "version": "0.1.4"
+      }
+    ],
+    "buildTool": "maven",
+    "cacheProvider": "no",
+    "clientFramework": "no",
+    "databaseType": "sql",
+    "dtoSuffix": "DTO",
+    "jhipsterVersion": "8.7.3",
+    "otherModules": [
+      {
+        "name": "generator-jhipster-yte",
+        "version": "0.1.4"
+      }
+    ],
+    "packageName": "tr.gov.tubitak.bilgem.yte.yte_demo_app",
+    "skipClient": true
+  }
+}
